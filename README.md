@@ -3,7 +3,7 @@
 ## Run
 
 ```bash
-$ rustc main.rs && ./main
+$ cargo run
 ```
 
 ### Regx file name matcher
